@@ -20,5 +20,11 @@ h2 {
   font-style: italic;
 }
 .important {
+  width: 30%;
   font-style: italic;
-  
+  background-color: orange
+  border-left: 8px solid black;
+  border-right: 8px solid black;
+  border-top: 8px solid black;
+  border-bottom: 8px solid black;
+}
