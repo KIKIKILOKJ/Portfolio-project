@@ -10,3 +10,7 @@ h1 {
   font-style: normal;
   color: black;
 }
+h2 {
+  color: crimson;
+  font-style: italic;
+  font-weight: bold;
