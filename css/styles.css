@@ -3,5 +3,10 @@ img {
 }
 h1 {
   font-style: italic;
-  color: black;
+  color: maroon;
   font-weight: bold;
+}
+.hype {
+  font-style: normal;
+  color: black;
+}
