@@ -1,7 +1,7 @@
 # portfolio-project
 
 ## Authors
- - [Peterkinyanjui].(https://github.com/KIKIKILOKJ)
+ - [Peterkinyanjui].(https://kikikilokj.github.io/portfolio-project/)
  
  ## Project Description
  - This is a project about myself.It contains information about myself such as my background in terms of my education, job experience, my interests, hobbies and skills.
